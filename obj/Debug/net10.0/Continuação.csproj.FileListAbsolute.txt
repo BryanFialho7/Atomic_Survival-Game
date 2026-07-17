@@ -1,0 +1,98 @@
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\Cópia de ProjetoCompleto 04-07-2026\Cópia de ProjetoCompleto 04-07-2026\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Desktop\Cópia de ProjetoCompleto 06-07-2026\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\(Gabriel) cópia projeto 06-07-2026\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Desktop\ProjetoGabriel-08-07\Continuação\obj\Debug\net10.0\ref\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\bin\Debug\net10.0\Continuação.exe
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\bin\Debug\net10.0\Continuação.deps.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\bin\Debug\net10.0\Continuação.runtimeconfig.json
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\bin\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\bin\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfoInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.AssemblyInfo.cs
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.csproj.CoreCompileInputs.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\refint\Continuação.dll
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.pdb
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\Continuação.genruntimeconfig.cache
+C:\Users\j02\Desktop\Gabriel_Jogdos_Tarde\ProjetoGabriel-09-07\Continuação\obj\Debug\net10.0\ref\Continuação.dll
