@@ -6,5 +6,6 @@ It wasn't made only by me, it was made with my teammates:
 ### Inspiration
 The game was inspirated by 
 
-* Fazer um jogo
-* terminar um jogo
+| Linguagem | Experi~encia |
+| :--- | :--- |
+| C# | Iniciante |
