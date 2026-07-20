@@ -4,9 +4,5 @@ The game was made to a homework for the game programming technical course I'm do
 It wasn't made only by me, it was made with my teammates:
 
 ### Inspiration
-The game was inspirated by 
-
-| Linguagem | Experi~encia |
-| :--- | :--- |
-| C# | Iniciante |
-| GameMaker | Profissional |
+The game was inspirated by the first two games from the videogame series Fallout, 
+Fallout and Fallout 2.
